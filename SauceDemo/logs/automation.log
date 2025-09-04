@@ -1,0 +1,482 @@
+13:00:15.884 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:00:45.854 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:00:48.957 [main] INFO  TestBase.BaseClass - Closed browser
+13:04:10.616 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:04:44.896 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:04:49.234 [main] INFO  TestBase.BaseClass - Closed browser
+13:13:09.108 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:13:20.864 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:19:38.979 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:19:46.167 [main] INFO  TestBase.BaseClass - Started chrome browser
+18:31:16.032 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+18:31:48.299 [main] INFO  TestBase.BaseClass - Started chrome browser
+18:32:54.288 [main] INFO  TestBase.BaseClass - Closed browser
+18:45:25.708 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+18:45:38.353 [main] INFO  TestBase.BaseClass - Started chrome browser
+18:45:40.023 [main] INFO  TestBase.BaseClass - Url opened
+18:45:40.498 [main] INFO  TestBase.BaseClass - entered username and password
+18:45:40.769 [main] INFO  TestBase.BaseClass - clicked on login button
+18:45:41.441 [main] INFO  TestBase.BaseClass - Validate inventory
+18:45:41.717 [main] INFO  TestBase.BaseClass - Validate product page is visible
+18:45:42.046 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+18:45:42.386 [main] INFO  TestBase.BaseClass - Url opened
+18:45:42.718 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+18:45:42.954 [main] INFO  TestBase.BaseClass - clicked on login button
+18:46:45.476 [main] INFO  TestBase.BaseClass - Closed browser
+18:54:39.816 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+18:54:56.695 [main] INFO  TestBase.BaseClass - Started chrome browser
+18:54:58.260 [main] INFO  TestBase.BaseClass - Url opened
+18:54:58.553 [main] INFO  TestBase.BaseClass - entered username and password
+18:54:58.719 [main] INFO  TestBase.BaseClass - clicked on login button
+18:54:58.775 [main] INFO  TestBase.BaseClass - Validate inventory
+18:54:58.820 [main] INFO  TestBase.BaseClass - Validate product page is visible
+18:54:58.872 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+18:54:58.967 [main] INFO  TestBase.BaseClass - Url opened
+18:54:59.182 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+18:54:59.296 [main] INFO  TestBase.BaseClass - clicked on login button
+18:55:01.014 [main] INFO  TestBase.BaseClass - Closed browser
+18:56:43.660 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+18:57:00.145 [main] INFO  TestBase.BaseClass - Started chrome browser
+18:57:01.540 [main] INFO  TestBase.BaseClass - Url opened
+18:57:01.853 [main] INFO  TestBase.BaseClass - entered username and password
+18:57:02.014 [main] INFO  TestBase.BaseClass - clicked on login button
+18:57:02.074 [main] INFO  TestBase.BaseClass - Validate inventory
+18:57:02.123 [main] INFO  TestBase.BaseClass - Validate product page is visible
+18:57:02.171 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+18:57:02.406 [main] INFO  TestBase.BaseClass - Url opened
+18:57:02.587 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+18:57:02.670 [main] INFO  TestBase.BaseClass - clicked on login button
+18:57:06.720 [main] INFO  TestBase.BaseClass - error mssg is displayed
+18:57:08.629 [main] INFO  TestBase.BaseClass - Closed browser
+18:57:43.814 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+18:58:00.094 [main] INFO  TestBase.BaseClass - Started chrome browser
+18:58:01.244 [main] INFO  TestBase.BaseClass - Url opened
+18:58:01.455 [main] INFO  TestBase.BaseClass - entered username and password
+18:58:01.607 [main] INFO  TestBase.BaseClass - clicked on login button
+18:58:01.690 [main] INFO  TestBase.BaseClass - Validate inventory
+18:58:01.755 [main] INFO  TestBase.BaseClass - Validate product page is visible
+18:58:01.817 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+18:58:01.919 [main] INFO  TestBase.BaseClass - Url opened
+18:58:02.151 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+18:58:02.226 [main] INFO  TestBase.BaseClass - clicked on login button
+18:59:08.292 [main] INFO  TestBase.BaseClass - Closed browser
+18:59:49.882 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+19:00:07.347 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+20:17:47.256 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+20:25:15.765 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+20:58:38.716 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+21:00:17.373 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+21:02:49.478 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+21:03:07.924 [main] INFO  TestBase.BaseClass - Started chrome browser
+21:03:09.433 [main] INFO  TestBase.BaseClass - Url opened
+21:03:09.726 [main] INFO  TestBase.BaseClass - entered username and password
+21:03:09.888 [main] INFO  TestBase.BaseClass - clicked on login button
+21:03:09.966 [main] INFO  TestBase.BaseClass - Validate inventory
+21:03:10.014 [main] INFO  TestBase.BaseClass - Validate product page is visible
+21:03:10.057 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+21:03:10.144 [main] INFO  TestBase.BaseClass - Url opened
+21:03:10.308 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+21:03:10.406 [main] INFO  TestBase.BaseClass - clicked on login button
+21:03:14.505 [main] INFO  TestBase.BaseClass - error mssg is displayed
+21:03:16.504 [main] INFO  TestBase.BaseClass - Closed browser
+22:31:02.827 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+22:31:21.559 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:31:23.353 [main] INFO  TestBase.BaseClass - Url opened
+22:31:23.603 [main] INFO  TestBase.BaseClass - entered username and password
+22:31:23.772 [main] INFO  TestBase.BaseClass - clicked on login button
+22:31:23.835 [main] INFO  TestBase.BaseClass - Validate inventory
+22:31:23.875 [main] INFO  TestBase.BaseClass - Validate product page is visible
+22:31:23.909 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+22:31:24.006 [main] INFO  TestBase.BaseClass - Url opened
+22:31:24.178 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+22:31:24.267 [main] INFO  TestBase.BaseClass - clicked on login button
+22:31:28.422 [main] INFO  TestBase.BaseClass - error mssg is displayed
+22:31:28.548 [main] INFO  TestBase.BaseClass - Url opened
+22:31:28.829 [main] INFO  TestBase.BaseClass - entered username and password
+22:31:28.959 [main] INFO  TestBase.BaseClass - clicked on login button
+22:32:29.239 [main] INFO  TestBase.BaseClass - Url opened
+22:35:13.794 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+22:35:22.169 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:35:24.231 [main] INFO  TestBase.BaseClass - Closed browser
+22:39:03.446 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+22:39:12.273 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:39:15.290 [main] INFO  TestBase.BaseClass - Closed browser
+22:40:42.230 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+22:40:50.734 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:40:52.848 [main] INFO  TestBase.BaseClass - Closed browser
+22:41:12.309 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+22:41:21.070 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:41:23.189 [main] INFO  TestBase.BaseClass - Closed browser
+22:42:36.241 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+22:42:44.187 [main] INFO  TestBase.BaseClass - Started chrome browser
+22:42:46.432 [main] INFO  TestBase.BaseClass - Url opened
+22:42:46.675 [main] INFO  TestBase.BaseClass - entered username and password
+22:42:46.856 [main] INFO  TestBase.BaseClass - clicked on login button
+22:42:48.802 [main] INFO  TestBase.BaseClass - Url opened
+22:43:12.017 [main] INFO  TestBase.BaseClass - Closed browser
+23:45:46.560 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:46:04.285 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:46:07.308 [main] INFO  TestBase.BaseClass - Url opened
+23:46:07.545 [main] INFO  TestBase.BaseClass - entered username and password
+23:46:07.671 [main] INFO  TestBase.BaseClass - clicked on login button
+23:46:07.740 [main] INFO  TestBase.BaseClass - Validate inventory
+23:46:07.800 [main] INFO  TestBase.BaseClass - Validate product page is visible
+23:46:07.856 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+23:46:07.948 [main] INFO  TestBase.BaseClass - Url opened
+23:46:08.142 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+23:46:08.233 [main] INFO  TestBase.BaseClass - clicked on login button
+23:46:12.305 [main] INFO  TestBase.BaseClass - error mssg is displayed
+23:46:12.396 [main] INFO  TestBase.BaseClass - Url opened
+23:46:12.562 [main] INFO  TestBase.BaseClass - entered username and password
+23:46:12.670 [main] INFO  TestBase.BaseClass - clicked on login button
+23:47:12.925 [main] INFO  TestBase.BaseClass - Url opened
+23:47:13.149 [main] INFO  TestBase.BaseClass - entered username and password
+23:47:13.272 [main] INFO  TestBase.BaseClass - clicked on login button
+23:48:21.690 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:48:30.349 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:48:31.820 [main] INFO  TestBase.BaseClass - Url opened
+23:48:32.048 [main] INFO  TestBase.BaseClass - entered username and password
+23:48:32.176 [main] INFO  TestBase.BaseClass - clicked on login button
+23:48:32.233 [main] INFO  TestBase.BaseClass - Validate inventory
+23:48:32.276 [main] INFO  TestBase.BaseClass - Validate product page is visible
+23:48:32.321 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+23:48:36.901 [main] INFO  TestBase.BaseClass - Closed browser
+23:48:36.909 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:48:44.639 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:48:48.356 [main] INFO  TestBase.BaseClass - Url opened
+23:48:48.606 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+23:48:48.719 [main] INFO  TestBase.BaseClass - clicked on login button
+23:48:52.829 [main] INFO  TestBase.BaseClass - error mssg is displayed
+23:48:57.787 [main] INFO  TestBase.BaseClass - Closed browser
+23:48:57.803 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:49:08.900 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:49:10.209 [main] INFO  TestBase.BaseClass - Url opened
+23:49:10.484 [main] INFO  TestBase.BaseClass - entered username and password
+23:49:10.665 [main] INFO  TestBase.BaseClass - clicked on login button
+23:49:13.098 [main] INFO  TestBase.BaseClass - Closed browser
+23:49:13.104 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:49:19.521 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:49:21.007 [main] INFO  TestBase.BaseClass - Url opened
+23:49:21.227 [main] INFO  TestBase.BaseClass - entered username and password
+23:49:21.406 [main] INFO  TestBase.BaseClass - clicked on login button
+23:50:24.309 [main] INFO  TestBase.BaseClass - Closed browser
+23:50:24.346 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:50:32.012 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:50:33.427 [main] INFO  TestBase.BaseClass - Url opened
+23:52:27.286 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:52:35.915 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:52:37.579 [main] INFO  TestBase.BaseClass - Url opened
+23:52:37.864 [main] INFO  TestBase.BaseClass - entered username and password
+23:52:38.023 [main] INFO  TestBase.BaseClass - clicked on login button
+23:52:38.085 [main] INFO  TestBase.BaseClass - Validate inventory
+23:52:38.141 [main] INFO  TestBase.BaseClass - Validate product page is visible
+23:52:38.181 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+23:52:38.194 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:52:46.022 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:52:48.236 [main] INFO  TestBase.BaseClass - Url opened
+23:52:48.470 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+23:52:48.568 [main] INFO  TestBase.BaseClass - clicked on login button
+23:52:52.675 [main] INFO  TestBase.BaseClass - error mssg is displayed
+23:52:52.675 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:53:00.488 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:53:01.685 [main] INFO  TestBase.BaseClass - Url opened
+23:53:01.921 [main] INFO  TestBase.BaseClass - entered username and password
+23:53:02.097 [main] INFO  TestBase.BaseClass - clicked on login button
+23:53:02.732 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:53:10.603 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:53:12.747 [main] INFO  TestBase.BaseClass - Url opened
+23:53:12.944 [main] INFO  TestBase.BaseClass - entered username and password
+23:53:13.115 [main] INFO  TestBase.BaseClass - clicked on login button
+23:54:14.202 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+23:54:21.948 [main] INFO  TestBase.BaseClass - Started chrome browser
+23:54:23.196 [main] INFO  TestBase.BaseClass - Url opened
+23:54:23.403 [main] INFO  TestBase.BaseClass - entered username and password
+23:54:23.566 [main] INFO  TestBase.BaseClass - clicked on login button
+08:52:40.600 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+08:52:55.760 [main] INFO  TestBase.BaseClass - Started chrome browser
+08:52:58.148 [main] INFO  TestBase.BaseClass - Url opened
+08:52:58.963 [main] INFO  TestBase.BaseClass - entered username and password
+08:53:00.145 [main] INFO  TestBase.BaseClass - clicked on login button
+08:53:00.479 [main] INFO  TestBase.BaseClass - Validate inventory
+08:53:00.681 [main] INFO  TestBase.BaseClass - Validate product page is visible
+08:53:00.789 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+08:53:00.814 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+08:53:10.780 [main] INFO  TestBase.BaseClass - Started chrome browser
+08:53:12.646 [main] INFO  TestBase.BaseClass - Url opened
+08:53:13.212 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+08:53:13.589 [main] INFO  TestBase.BaseClass - clicked on login button
+08:53:17.706 [main] INFO  TestBase.BaseClass - error mssg is displayed
+08:53:17.726 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+08:53:27.625 [main] INFO  TestBase.BaseClass - Started chrome browser
+08:53:29.528 [main] INFO  TestBase.BaseClass - Url opened
+08:53:29.903 [main] INFO  TestBase.BaseClass - entered username and password
+08:53:30.411 [main] INFO  TestBase.BaseClass - clicked on login button
+08:53:31.570 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+08:53:42.801 [main] INFO  TestBase.BaseClass - Started chrome browser
+08:53:44.896 [main] INFO  TestBase.BaseClass - Url opened
+08:53:45.657 [main] INFO  TestBase.BaseClass - entered username and password
+08:53:46.287 [main] INFO  TestBase.BaseClass - clicked on login button
+08:54:47.854 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+08:55:00.906 [main] INFO  TestBase.BaseClass - Started chrome browser
+08:55:03.038 [main] INFO  TestBase.BaseClass - Url opened
+08:55:03.831 [main] INFO  TestBase.BaseClass - entered username and password
+08:55:04.475 [main] INFO  TestBase.BaseClass - clicked on login button
+09:02:08.482 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:02:18.415 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:02:19.525 [main] INFO  TestBase.BaseClass - Url opened
+09:02:20.061 [main] INFO  TestBase.BaseClass - entered username and password
+09:02:20.334 [main] INFO  TestBase.BaseClass - clicked on login button
+09:02:20.407 [main] INFO  TestBase.BaseClass - Validate inventory
+09:02:20.453 [main] INFO  TestBase.BaseClass - Validate product page is visible
+09:02:20.497 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+09:02:22.683 [main] INFO  TestBase.BaseClass - Closed browser
+09:02:22.703 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:02:31.546 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:02:32.721 [main] INFO  TestBase.BaseClass - Url opened
+09:02:33.051 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+09:02:33.304 [main] INFO  TestBase.BaseClass - clicked on login button
+09:02:37.454 [main] INFO  TestBase.BaseClass - error mssg is displayed
+09:02:39.725 [main] INFO  TestBase.BaseClass - Closed browser
+09:02:39.743 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:02:48.056 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:02:49.091 [main] INFO  TestBase.BaseClass - Url opened
+09:02:49.465 [main] INFO  TestBase.BaseClass - entered username and password
+09:02:49.757 [main] INFO  TestBase.BaseClass - clicked on login button
+09:12:17.294 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:12:29.337 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:12:31.118 [main] INFO  TestBase.BaseClass - Url opened
+09:12:31.522 [main] INFO  TestBase.BaseClass - entered username and password
+09:12:31.761 [main] INFO  TestBase.BaseClass - clicked on login button
+09:12:31.838 [main] INFO  TestBase.BaseClass - Validate inventory
+09:12:31.892 [main] INFO  TestBase.BaseClass - Validate product page is visible
+09:12:31.948 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+09:12:34.099 [main] INFO  TestBase.BaseClass - Closed browser
+09:12:34.116 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:12:42.610 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:12:44.437 [main] INFO  TestBase.BaseClass - Url opened
+09:12:44.763 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+09:12:45.023 [main] INFO  TestBase.BaseClass - clicked on login button
+09:12:49.159 [main] INFO  TestBase.BaseClass - error mssg is displayed
+09:12:51.499 [main] INFO  TestBase.BaseClass - Closed browser
+09:12:51.519 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:13:01.522 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:13:02.818 [main] INFO  TestBase.BaseClass - Url opened
+09:13:03.144 [main] INFO  TestBase.BaseClass - entered username and password
+09:13:03.447 [main] INFO  TestBase.BaseClass - clicked on login button
+09:13:06.298 [main] INFO  TestBase.BaseClass - Closed browser
+09:13:06.309 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:13:15.862 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:13:17.704 [main] INFO  TestBase.BaseClass - Url opened
+09:13:18.044 [main] INFO  TestBase.BaseClass - entered username and password
+09:13:18.292 [main] INFO  TestBase.BaseClass - clicked on login button
+09:14:21.621 [main] INFO  TestBase.BaseClass - Closed browser
+09:14:21.663 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:14:30.996 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:14:32.210 [main] INFO  TestBase.BaseClass - Url opened
+09:14:32.575 [main] INFO  TestBase.BaseClass - entered username and password
+09:14:32.883 [main] INFO  TestBase.BaseClass - clicked on login button
+09:15:35.978 [main] INFO  TestBase.BaseClass - Closed browser
+09:16:00.838 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:16:19.537 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:16:20.627 [main] INFO  TestBase.BaseClass - Url opened
+09:16:21.309 [main] INFO  TestBase.BaseClass - entered username and password
+09:16:21.577 [main] INFO  TestBase.BaseClass - clicked on login button
+09:16:21.658 [main] INFO  TestBase.BaseClass - Validate inventory
+09:16:21.717 [main] INFO  TestBase.BaseClass - Validate product page is visible
+09:16:21.772 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+09:16:23.762 [main] INFO  TestBase.BaseClass - Closed browser
+09:16:23.790 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:16:33.008 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:16:34.308 [main] INFO  TestBase.BaseClass - Url opened
+09:16:34.729 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+09:16:35.045 [main] INFO  TestBase.BaseClass - clicked on login button
+09:16:39.168 [main] INFO  TestBase.BaseClass - error mssg is displayed
+09:16:41.287 [main] INFO  TestBase.BaseClass - Closed browser
+09:16:41.303 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:16:59.065 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:17:00.205 [main] INFO  TestBase.BaseClass - Url opened
+09:17:00.591 [main] INFO  TestBase.BaseClass - entered username and password
+09:17:00.985 [main] INFO  TestBase.BaseClass - clicked on login button
+09:17:04.013 [main] INFO  TestBase.BaseClass - Closed browser
+09:17:04.030 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:17:13.495 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:17:14.583 [main] INFO  TestBase.BaseClass - Url opened
+09:17:14.904 [main] INFO  TestBase.BaseClass - entered username and password
+09:17:15.197 [main] INFO  TestBase.BaseClass - clicked on login button
+09:18:17.995 [main] INFO  TestBase.BaseClass - Closed browser
+09:18:18.011 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:18:27.440 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:18:29.246 [main] INFO  TestBase.BaseClass - Url opened
+09:18:29.563 [main] INFO  TestBase.BaseClass - entered username and password
+09:18:29.783 [main] INFO  TestBase.BaseClass - clicked on login button
+09:19:23.454 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:19:32.435 [main] INFO  TestBase.BaseClass - Started chrome browser
+09:19:33.595 [main] INFO  TestBase.BaseClass - Url opened
+09:19:34.034 [main] INFO  TestBase.BaseClass - entered username and password
+09:19:34.366 [main] INFO  TestBase.BaseClass - clicked on login button
+09:20:37.407 [main] INFO  TestBase.BaseClass - Closed browser
+09:24:37.534 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:24:41.443 [main] INFO  TestBase.BaseClass - Started edge browser
+09:24:44.037 [main] INFO  TestBase.BaseClass - Url opened
+09:24:44.466 [main] INFO  TestBase.BaseClass - entered username and password
+09:24:44.701 [main] INFO  TestBase.BaseClass - clicked on login button
+09:24:47.977 [main] INFO  TestBase.BaseClass - Closed browser
+09:28:00.509 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:28:04.521 [main] INFO  TestBase.BaseClass - Started edge browser
+09:28:05.406 [main] INFO  TestBase.BaseClass - Url opened
+09:28:05.845 [main] INFO  TestBase.BaseClass - entered username and password
+09:28:06.056 [main] INFO  TestBase.BaseClass - clicked on login button
+09:28:06.130 [main] INFO  TestBase.BaseClass - Validate inventory
+09:28:06.179 [main] INFO  TestBase.BaseClass - Validate product page is visible
+09:28:06.249 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+09:28:07.597 [main] INFO  TestBase.BaseClass - Closed browser
+09:28:07.626 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:28:10.717 [main] INFO  TestBase.BaseClass - Started edge browser
+09:28:11.665 [main] INFO  TestBase.BaseClass - Url opened
+09:28:12.012 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+09:28:12.180 [main] INFO  TestBase.BaseClass - clicked on login button
+09:28:16.351 [main] INFO  TestBase.BaseClass - error mssg is displayed
+09:28:17.634 [main] INFO  TestBase.BaseClass - Closed browser
+09:28:17.659 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:28:21.081 [main] INFO  TestBase.BaseClass - Started edge browser
+09:28:22.440 [main] INFO  TestBase.BaseClass - Url opened
+09:28:22.805 [main] INFO  TestBase.BaseClass - entered username and password
+09:28:23.028 [main] INFO  TestBase.BaseClass - clicked on login button
+09:28:25.659 [main] INFO  TestBase.BaseClass - Closed browser
+09:28:25.691 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:28:29.208 [main] INFO  TestBase.BaseClass - Started edge browser
+09:28:30.196 [main] INFO  TestBase.BaseClass - Url opened
+09:28:30.594 [main] INFO  TestBase.BaseClass - entered username and password
+09:28:30.849 [main] INFO  TestBase.BaseClass - clicked on login button
+09:28:33.741 [main] INFO  TestBase.BaseClass - Closed browser
+09:28:33.756 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:28:37.253 [main] INFO  TestBase.BaseClass - Started edge browser
+09:28:38.448 [main] INFO  TestBase.BaseClass - Url opened
+09:28:38.748 [main] INFO  TestBase.BaseClass - entered username and password
+09:28:38.918 [main] INFO  TestBase.BaseClass - clicked on login button
+09:28:42.035 [main] INFO  TestBase.BaseClass - Closed browser
+09:34:59.604 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:35:03.418 [main] INFO  TestBase.BaseClass - Started edge browser
+09:35:06.422 [main] INFO  TestBase.BaseClass - Url opened
+09:35:06.780 [main] INFO  TestBase.BaseClass - entered username and password
+09:35:06.967 [main] INFO  TestBase.BaseClass - clicked on login button
+09:35:07.081 [main] INFO  TestBase.BaseClass - Validate inventory
+09:35:07.134 [main] INFO  TestBase.BaseClass - Validate product page is visible
+09:35:07.175 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+09:35:08.372 [main] INFO  TestBase.BaseClass - Closed browser
+09:35:08.393 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:35:11.420 [main] INFO  TestBase.BaseClass - Started edge browser
+09:35:12.510 [main] INFO  TestBase.BaseClass - Url opened
+09:35:12.795 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+09:35:12.957 [main] INFO  TestBase.BaseClass - clicked on login button
+09:35:17.093 [main] INFO  TestBase.BaseClass - error mssg is displayed
+09:35:18.361 [main] INFO  TestBase.BaseClass - Closed browser
+09:35:18.389 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:35:21.914 [main] INFO  TestBase.BaseClass - Started edge browser
+09:35:23.367 [main] INFO  TestBase.BaseClass - Url opened
+09:35:23.729 [main] INFO  TestBase.BaseClass - entered username and password
+09:35:23.961 [main] INFO  TestBase.BaseClass - clicked on login button
+09:35:26.137 [main] INFO  TestBase.BaseClass - Closed browser
+09:35:26.164 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:35:29.588 [main] INFO  TestBase.BaseClass - Started edge browser
+09:35:30.663 [main] INFO  TestBase.BaseClass - Url opened
+09:35:30.999 [main] INFO  TestBase.BaseClass - entered username and password
+09:35:31.254 [main] INFO  TestBase.BaseClass - clicked on login button
+09:35:33.955 [main] INFO  TestBase.BaseClass - Closed browser
+09:35:33.980 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+09:35:37.085 [main] INFO  TestBase.BaseClass - Started edge browser
+09:35:37.952 [main] INFO  TestBase.BaseClass - Url opened
+09:35:38.279 [main] INFO  TestBase.BaseClass - entered username and password
+09:35:38.480 [main] INFO  TestBase.BaseClass - clicked on login button
+09:35:41.528 [main] INFO  TestBase.BaseClass - Closed browser
+13:25:16.986 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:25:19.425 [main] INFO  TestBase.BaseClass - Started edge browser
+13:25:20.286 [main] INFO  TestBase.BaseClass - Url opened
+13:25:20.626 [main] INFO  TestBase.BaseClass - entered username and password
+13:25:20.802 [main] INFO  TestBase.BaseClass - clicked on login button
+13:25:20.870 [main] INFO  TestBase.BaseClass - Validate inventory
+13:25:20.929 [main] INFO  TestBase.BaseClass - Validate product page is visible
+13:25:20.994 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+13:25:22.320 [main] INFO  TestBase.BaseClass - Closed browser
+13:25:22.329 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:25:23.985 [main] INFO  TestBase.BaseClass - Started edge browser
+13:25:24.815 [main] INFO  TestBase.BaseClass - Url opened
+13:25:25.078 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+13:25:25.203 [main] INFO  TestBase.BaseClass - clicked on login button
+13:25:29.283 [main] INFO  TestBase.BaseClass - error mssg is displayed
+13:25:30.612 [main] INFO  TestBase.BaseClass - Closed browser
+13:25:30.628 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:25:32.327 [main] INFO  TestBase.BaseClass - Started edge browser
+13:25:33.095 [main] INFO  TestBase.BaseClass - Url opened
+13:25:33.335 [main] INFO  TestBase.BaseClass - entered username and password
+13:25:33.523 [main] INFO  TestBase.BaseClass - clicked on login button
+13:25:35.242 [main] INFO  TestBase.BaseClass - Closed browser
+13:25:35.247 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:25:36.702 [main] INFO  TestBase.BaseClass - Started edge browser
+13:25:38.065 [main] INFO  TestBase.BaseClass - Url opened
+13:25:38.312 [main] INFO  TestBase.BaseClass - entered username and password
+13:25:38.444 [main] INFO  TestBase.BaseClass - clicked on login button
+13:25:40.722 [main] INFO  TestBase.BaseClass - Closed browser
+13:25:40.727 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:25:42.353 [main] INFO  TestBase.BaseClass - Started edge browser
+13:25:43.019 [main] INFO  TestBase.BaseClass - Url opened
+13:25:43.250 [main] INFO  TestBase.BaseClass - entered username and password
+13:25:43.386 [main] INFO  TestBase.BaseClass - clicked on login button
+13:25:45.683 [main] INFO  TestBase.BaseClass - Closed browser
+13:26:32.706 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:27:22.260 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:27:23.290 [main] INFO  TestBase.BaseClass - Url opened
+13:27:23.604 [main] INFO  TestBase.BaseClass - entered username and password
+13:27:23.785 [main] INFO  TestBase.BaseClass - clicked on login button
+13:27:23.858 [main] INFO  TestBase.BaseClass - Validate inventory
+13:27:23.900 [main] INFO  TestBase.BaseClass - Validate product page is visible
+13:27:23.940 [main] INFO  TestBase.BaseClass - Validate product grid is displayed
+13:27:25.703 [main] INFO  TestBase.BaseClass - Closed browser
+13:27:25.712 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:27:51.756 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:27:52.758 [main] INFO  TestBase.BaseClass - Url opened
+13:27:52.990 [main] INFO  TestBase.BaseClass - Enters invalid username and password
+13:27:53.106 [main] INFO  TestBase.BaseClass - clicked on login button
+13:27:57.197 [main] INFO  TestBase.BaseClass - error mssg is displayed
+13:27:58.802 [main] INFO  TestBase.BaseClass - Closed browser
+13:27:58.829 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:28:25.103 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:28:26.000 [main] INFO  TestBase.BaseClass - Url opened
+13:28:26.216 [main] INFO  TestBase.BaseClass - entered username and password
+13:28:26.403 [main] INFO  TestBase.BaseClass - clicked on login button
+13:28:28.799 [main] INFO  TestBase.BaseClass - Closed browser
+13:28:28.804 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:28:54.815 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:28:55.704 [main] INFO  TestBase.BaseClass - Url opened
+13:28:55.936 [main] INFO  TestBase.BaseClass - entered username and password
+13:28:56.121 [main] INFO  TestBase.BaseClass - clicked on login button
+13:29:33.841 [main] ERROR TestBase.BaseClass - Error while handling alert: Error communicating with the remote browser. It may have died.
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5319790156e55a55f695bc6083d40c77, getAlertText []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.80, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\2303919\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49261}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49261/devtoo..., se:cdpVersion: 140.0.7339.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5319790156e55a55f695bc6083d40c77
+13:29:33.846 [main] INFO  TestBase.BaseClass - Closed browser
+13:29:33.879 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+13:29:59.636 [main] INFO  TestBase.BaseClass - Started chrome browser
+13:30:00.633 [main] INFO  TestBase.BaseClass - Url opened
+13:30:00.849 [main] INFO  TestBase.BaseClass - entered username and password
+13:30:01.014 [main] INFO  TestBase.BaseClass - clicked on login button
+13:30:07.313 [main] ERROR TestBase.BaseClass - Error while handling alert: Error communicating with the remote browser. It may have died.
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6a874dd2a9d080e1fc0d49b9e1e7455d, getAlertText []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.80, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\2303919\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56693}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56693/devtoo..., se:cdpVersion: 140.0.7339.80, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a874dd2a9d080e1fc0d49b9e1e7455d
+13:30:07.320 [main] INFO  TestBase.BaseClass - Closed browser
+15:01:35.701 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+15:01:38.496 [main] INFO  TestBase.BaseClass - Started edge browser
+15:01:39.327 [main] INFO  TestBase.BaseClass - Url opened
+15:01:39.584 [main] INFO  TestBase.BaseClass - entered username and password
+15:02:28.065 [main] INFO  TestBase.BaseClass - Starting cucumber tests
+15:02:30.120 [main] INFO  TestBase.BaseClass - Started edge browser
+15:02:30.941 [main] INFO  TestBase.BaseClass - Url opened
+15:02:31.207 [main] INFO  TestBase.BaseClass - entered username and password
+15:02:33.859 [main] INFO  TestBase.BaseClass - Closed browser
